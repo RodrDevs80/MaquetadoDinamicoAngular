@@ -1,0 +1,148 @@
+{
+    "encabezado": [
+        {
+            "nombre": "Carlos Eduardo Rodriguez",
+            "tituloStack": "Full Stack Developer Jr.",
+            "tituloUno": "Técnico en Reparación de PC y Redes",
+            "tituloDos": "Profesor de Historia en el I.S.F.D.C.N°1",
+            "ubicacion": "Santigo Del Estero-Añatuya-(Argentina)",
+            "foto": "./assets/iconos/f1.jpg",
+            "imagenBanner": "./assets/iconos/Dimensiones personalizadas 1300x550 px.jpeg",
+            "logoProfesorado": "./assets/iconos/profesorado.jpeg",
+            "texto":"Soy docente de historia, pero siempre me intereso la tecnología, a tal punto que me capacite en reparación de PC, notebook, netbook y redes, comencé con mi propio emprendimiento en mis tiempos libres. Me interese por la programación por que sentía que me faltaba explorar una parte fundamental de lo que tanto me apasiona,esta pasión me llevo a capacitarme como <strong>Full StackDeveloper Jr</strong>, que es un camino de aprendizaje continuo, el cual estoy dispuesto a seguir, como una opción de evolución personal y profesional."
+        }
+    ],
+    "experiencia": [
+        {
+            "cargo": "Técnico de reparación de hardware",
+            "institucion": "SerTec-Servicio Técnico Informático",
+            "tiempo": "Enero del 2015-actualidad-7 años",
+            "ubicacion": "Santigo Del Estero-Añatuya-(Argentina)",
+            "logo": "./assets/iconos/sertec.jpeg"
+        },
+        {
+            "cargo": "Servicio Técnico Autorizado EXO",
+            "institucion": "EXO-Soluciones Tecnologicas",
+            "tiempo": "2018-actualidad-4 años",
+            "ubicacion": "Santiago del Estero (Argentina)",
+            "logo": "./assets/iconos/EXO_S.A.png"
+        },
+        {
+            "cargo": "Profesor de Historia",
+            "institucion": "'I.S.F.D.C.N°1' Mons. Dr. Jorge Gottau",
+            "tiempo": "2005-actualidad-17 años",
+            "ubicacion": "Santigo Del Estero-Añatuya-(Argentina)",
+            "logo": "./assets/iconos/profesorado.jpeg"
+        }
+    ],
+    "educacion": [
+        {
+            "capacitador": "Argentina Programa",
+            "cursada": "2022-2023",
+            "tituloCap": "Full Stack Developer Jr",
+            "logo": "./assets/iconos/ArgePro.png"
+        },
+        {
+            "capacitador": "U.N.S.E-Universidad Nacional de Santiago Del Estero",
+            "cursada": "2012-2013",
+            "tituloCap": "Trayecto Técnico Profesional,creación y mantenimiento de redes informáticas Wi-Fi y cableadas",
+            "logo": "./assets/iconos/unse.png"
+        },
+        {
+            "capacitador": "I.S.F.D.C.N°1 'Mons. Dr. Jorge Gottau'",
+            "cursada": "2000-2005",
+            "tituloCap": "Educacion,Profesor de Historia",
+            "logo": "./assets/iconos/profesorado.jpeg"
+        },
+        {
+            "capacitador": "I.A.C.-Instituto Argentino de Computación",
+            "cursada": "1997-1998",
+            "tituloCap": "Operador Profesional de Office",
+            "logo": "./assets/iconos/iac.jpeg"
+        },
+        {
+            "capacitador": "Colegio Florentino Ameghino",
+            "cursada": "1992-1997",
+            "tituloCap": "Bachiller-Orientación Docente",
+            "logo": "./assets/iconos/fa.jpg"
+        }
+    ],
+    "skills": [
+        {
+            "habilidad": "HTML",
+            "avance": "90%",
+            "porcentaje":"width: 90%"
+        },
+        {
+            "habilidad": "CSS",
+            "avance": "75%",
+            "porcentaje":"width: 75%"
+        },
+        {
+            "habilidad": "Javascript",
+            "avance": "70%",
+            "porcentaje":"width: 70%"
+        },
+        {
+            "habilidad": "Typescript",
+            "avance": "50%",
+            "porcentaje":"width: 50%"
+        },
+        {
+            "habilidad": "Angular",
+            "avance": "30%",
+            "porcentaje":"width: 30%"
+        },
+        {
+            "habilidad": "Bootstrap",
+            "avance": "70%",
+            "porcentaje":"width: 70%"
+        },
+        {
+            "habilidad": "C++",
+            "avance": "50%",
+            "porcentaje":"width: 50%"
+        },
+        {
+            "habilidad": "Disposición a aprender",
+            "avance": "100%",
+            "porcentaje":"width: 100%"
+        },
+        {
+            "habilidad": "Responsabilidad",
+            "avance": "100%",
+            "porcentaje":"width: 100%"
+        },
+        {
+            "habilidad": "Autonomía",
+            "avance": "90%",
+            "porcentaje":"width: 90%"
+        },
+        {
+            "habilidad": "iniciativa",
+            "avance": "90%",
+            "porcentaje":"width: 90%"
+        },
+        {
+            "habilidad": "Fuerza de voluntad y esfuerzo",
+            "avance": "100%",
+            "porcentaje":"width: 100%"
+        },
+        {
+            "habilidad": "comunicación y escucha activa",
+            "avance": "95%",
+            "porcentaje":"width: 95%"
+        },
+        {
+            "habilidad": "Sociabilidad",
+            "avance": "90%",
+            "porcentaje":"width: 90%"
+        }
+    ],
+    "proyectos": [
+        {
+            "nombre": "Portfolio Web",
+            "descripcion": "Desarrolle un Portfolio Web, que es una forma única de mostrar mi trabajo y me va a permitir que otras personas sepan más de mi como developer y como persona comprometida con la tarea que me toque realizar. Busque integrar todo un stack de tecnologías, tanto en el front end y el back end."
+        }
+    ]
+}
